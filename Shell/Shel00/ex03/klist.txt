@@ -1,0 +1,5 @@
+Credentials cache: API:5718AE08-BC69-4951-B4BC-D439BE9D134A
+        Principal: jvander-@S19.BE
+
+  Issued                Expires               Principal
+Mar  3 12:44:03 2021  Mar  3 22:44:03 2021  krbtgt/S19.BE@S19.BE
